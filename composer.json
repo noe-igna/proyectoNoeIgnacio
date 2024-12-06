@@ -1,0 +1,16 @@
+{
+    "name": "noeignacio/proyecto-noe-ignacio",
+    "description": "El proyecto final que el equipo deberá presentar",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Noeignacio\\ProyectoNoeIgnacio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NoeIgnacio"
+        }
+    ],
+    "require": {}
+}
